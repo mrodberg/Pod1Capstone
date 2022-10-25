@@ -6,3 +6,8 @@ __pycache__
 !*.zip
 *.gz
 *.db
+<<<<<<< HEAD
+=======
+*.tsv
+*.csv
+>>>>>>> Allie
