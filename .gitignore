@@ -5,3 +5,6 @@ __pycache__
 .gitattributes
 !*.zip
 *.gz
+*.db
+*.tsv
+*.csv
