@@ -1,7 +1,6 @@
+**\* Overview**
 
-      **\* Overview**
-
-\*The most important thing for an emerging movie company is to know what movies made money. To this end, we decided to research which genre of movies Computing Vision should invest in by looking at profitability and return on investment (ROI). We also explored which budget brackets would deliver the best return, and which runtime would be optimal.
+\*The most important thing for an emerging movie company is to know what movies made money. To this end, we decided to research which genre of movies Computing Vision should invest in by looking at profitability and return on investment (ROI). We also explored which budget brackets would deliver the best return, and which runtime would be optimal. We also organized our repository with our own personal workbooks in the main repository that we used as sandboxes before putting our final code into the Primary Notebook which is our final deliverable. In our repository we also included an ERD for our reference.
 
 \* Business Understanding
 
@@ -30,19 +29,19 @@ ROI\_international,and profit\_in\_millions
 
 - Average Profit by Genre
 
-![](RackMultipart20221027-1-rjom30_html_5b70293c6b29f28d.png)
+![](RackMultipart20221027-1-caept_html_5b70293c6b29f28d.png)
 
 \* From this data we were able to determine that Animation was the most profitable Genre, which is where we turned our focus to.
 
 - Average Budget vs Profit per Genre of Movie
 
-![](RackMultipart20221027-1-rjom30_html_f99c0e90b90db9e8.png)
+![](RackMultipart20221027-1-caept_html_f99c0e90b90db9e8.png)
 
 \*We also confirmed that based on the Budgets put in by animation studios, the average profit also weighed in
 
 - Average Runtime for the Top 10 most Profitable Animated Movies
 
-![](RackMultipart20221027-1-rjom30_html_86cdeefa05ab5016.png)
+![](RackMultipart20221027-1-caept_html_86cdeefa05ab5016.png)
 
 \*Focusing in on the top ten most profitable animation movies, we wanted to measure runtime (in minutes) as a goal to figure out what time length to pinpoint for the most optimal movie for our studio. We found a range of movies between 87 minutes and 101 minutes was the 25th and 75th percentile of the IQR Scale of our boxplot, as well as the average runtime for the top 10 most profitable movies was 91 minutes, a little over an hour and a half.
 
@@ -63,4 +62,4 @@ ROI\_international,and profit\_in\_millions
 
 \* 87 Minutes to 101 Minutes
 
-\*Examining the 10 most successful animated films by profit and ratings yielded this range as the most common
+\*Examining the 10 most successful animated films by profit and ratings yielded this range as the most common 
