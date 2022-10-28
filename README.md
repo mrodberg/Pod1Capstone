@@ -79,3 +79,8 @@ Out of all the genres examined, animation yielded the highest profit
    ### 87 Minutes to 101 Minutes
 
 Examining the 10 most successful animated films by profit and ratings yielded this range as the most common 
+
+## Presentation - Group 1
+
+"[Presentation Group 1]" "(y)"
+
