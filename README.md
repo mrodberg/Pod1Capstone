@@ -72,15 +72,15 @@ p-value < alpha: reject the null hypothesis
 ## Conclusion
    ### Summary of conclusions including three relevant findings
 
-High Investment equals high profit
+   ### 1) High Investment = High Profit
 
 Our analysis showed that according to the data, films with higher budgets receive higher returns while lower budgets yield smaller returns
 
-   ### Animation is the optimal genre
+   ### 2) Optimal Genre = Animation
 
 Out of all the genres examined, animation yielded the highest profit
 
-   ### 87 Minutes to 101 Minutes
+   ### 3) Optimal Film Run-Time Range = 87 Minutes to 101 Minutes
 
 Examining the 10 most successful animated films by profit and ratings yielded this range as the most common 
 
