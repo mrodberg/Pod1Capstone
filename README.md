@@ -4,10 +4,10 @@
 
 ## Business Understanding
 
-\* Profit at the end of the day is the goal for all companies and therefore when starting a movie company, it is important to know which movie products make money. Therefore, our objective is to find the optimal movie type and structure that will optimize profits. To achieve this, we must examine the key metrics of a movie, namely genre, runtime, and budget.
+* Profit at the end of the day is the goal for all companies and therefore when starting a movie company, it is important to know which movie products make money. Therefore, our objective is to find the optimal movie type and structure that will optimize profits. To achieve this, we must examine the key metrics of a movie, namely genre, runtime, and budget.
 
 ## Data Understanding and Analysis
- \* We drew our data from our available datasets, with our group using im.db.zip and tn.movie\_budgets.csv wherein we merged these data sets into a single Pandas data frame where we all then draw our analysis from. This data frame served as the foundation for the rest of our analysis
+ ** We drew our data from our available datasets, with our group using im.db.zip and tn.movie\_budgets.csv wherein we merged these data sets into a single Pandas data frame where we all then draw our analysis from. This data frame served as the foundation for the rest of our analysis
 
 ### Description of data
 
