@@ -9,6 +9,15 @@
 ## Data Understanding and Analysis
 > We drew our data from our available datasets, with our group using im.db.zip and tn.movie\_budgets.csv wherein we merged these data sets into a single Pandas data frame where we all then draw our analysis from. This data frame served as the foundation for the rest of our analysis.
 
+## Packages Used
+- sqlite3 - Working with SQL Lite
+- numpy - Working with Arrays
+- pandas - Data Manipulation
+- matplotlib.pyplot - Mathematic Calculations
+- SciPy Stats - Hypothesis Testing
+- seaborn - Data Visualization
+
+
 ### Description of data
 
 'im.db' is a SQL database containing 8 tables with movie information
@@ -54,7 +63,7 @@ A 1-sample t-test was done on the sample of animated movies using profit
 
 * p-value = 0.0000000007345 
 
-p-value < alpha: reject the null hypothesus 
+p-value < alpha: reject the null hypothesis 
 
 ## Conclusion
    ### Summary of conclusions including three relevant findings
