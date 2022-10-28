@@ -29,7 +29,7 @@ ROI\_international,and profit\_in\_millions
 
 - Average Profit by Genre
 
-![alt text](avgprofitgenre.png, "avgprofitbygenre")
+![](avgprofitgenre.png "avgprofitbygenre")
 
 \* From this data we were able to determine that Animation was the most profitable Genre, which is where we turned our focus to.
 
