@@ -1,6 +1,10 @@
 ## Overview
 
-> The most important thing for an emerging movie company is to know what movies made money. To this end, we decided to research which genre of movies Computing Vision should invest in by looking at profitability and return on investment (ROI). We also explored which budget brackets would deliver the best return, and which runtime would be optimal. We also organized our repository with our own personal workbooks in the main repository that we used as sandboxes before putting our final code into the Primary Notebook which is our final deliverable. In our repository we also included an ERD for our reference.
+> The most important thing for an emerging movie company is to know what movies made money. To this end, we decided to research which genre of movies Computing Vision should invest in by looking at profitability and return on investment (ROI). We also explored which budget brackets would deliver the best return, and which runtime would be optimal. 
+
+## Instructions for Navigating Repository
+
+> Our repository is organized on each others personal workbooks represented in the main repository, which we used to sandbox all our ideas into before putting our final code and collaborative code in the "main" and the Primary Notebook in the main is our final deliverable.  In our repository we also included an ERD for our reference.
 
 ## Business Understanding
 
@@ -8,6 +12,15 @@
 
 ## Data Understanding and Analysis
 > We drew our data from our available datasets, with our group using im.db.zip and tn.movie\_budgets.csv wherein we merged these data sets into a single Pandas data frame where we all then draw our analysis from. This data frame served as the foundation for the rest of our analysis.
+
+## Packages Used
+- sqlite3 - Working with SQL Lite
+- numpy - Working with Arrays
+- pandas - Data Manipulation
+- matplotlib.pyplot - Mathematic Calculations
+- SciPy Stats - Hypothesis Testing
+- seaborn - Data Visualization
+
 
 ### Description of data
 
@@ -54,19 +67,24 @@ A 1-sample t-test was done on the sample of animated movies using profit
 
 * p-value = 0.0000000007345 
 
-p-value < alpha: reject the null hypothesus 
+p-value < alpha: reject the null hypothesis 
 
 ## Conclusion
    ### Summary of conclusions including three relevant findings
 
-High Investment equals high profit
+   ### 1) High Investment = High Profit
 
 Our analysis showed that according to the data, films with higher budgets receive higher returns while lower budgets yield smaller returns
 
-   ### Animation is the optimal genre
+   ### 2) Optimal Genre = Animation
 
 Out of all the genres examined, animation yielded the highest profit
 
-   ### 87 Minutes to 101 Minutes
+   ### 3) Optimal Film Run-Time Range = 87 Minutes to 101 Minutes
 
 Examining the 10 most successful animated films by profit and ratings yielded this range as the most common 
+
+## Presentation - Group 1
+
+[AI Academy Capstone - Group 1 Presentation](https://github.com/colesussmeierDELOITTE/Pod1Capstone/blob/main/AIAcademyPresentation.pdf)
+
