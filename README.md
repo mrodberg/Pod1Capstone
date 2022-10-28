@@ -86,5 +86,5 @@ Examining the 10 most successful animated films by profit and ratings yielded th
 
 ## Presentation - Group 1
 
-"[Presentation Group 1]" "(y)"
+[AI Academy Capstone - Group 1 Presentation](https://github.com/colesussmeierDELOITTE/Pod1Capstone/blob/main/AIAcademyPresentation.pdf)
 
