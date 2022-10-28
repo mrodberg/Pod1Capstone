@@ -1,6 +1,6 @@
 ## Overview
 
-\*The most important thing for an emerging movie company is to know what movies made money. To this end, we decided to research which genre of movies Computing Vision should invest in by looking at profitability and return on investment (ROI). We also explored which budget brackets would deliver the best return, and which runtime would be optimal. We also organized our repository with our own personal workbooks in the main repository that we used as sandboxes before putting our final code into the Primary Notebook which is our final deliverable. In our repository we also included an ERD for our reference.
+>> The most important thing for an emerging movie company is to know what movies made money. To this end, we decided to research which genre of movies Computing Vision should invest in by looking at profitability and return on investment (ROI). We also explored which budget brackets would deliver the best return, and which runtime would be optimal. We also organized our repository with our own personal workbooks in the main repository that we used as sandboxes before putting our final code into the Primary Notebook which is our final deliverable. In our repository we also included an ERD for our reference.
 
 ## Business Understanding
 
