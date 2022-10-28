@@ -35,13 +35,13 @@ ROI\_international,and profit\_in\_millions
 
 - Average Budget vs Profit per Genre of Movie
 
-![alt text](avgprofitbudget.png, "avgprofitbudget")
+![](avgprofitbudget.png "avgprofitbudget")
 
 \*We also confirmed that based on the Budgets put in by animation studios, the average profit also weighed in
 
 - Average Runtime for the Top 10 most Profitable Animated Movies
 
-![alt text](top10animationruntime.png, "top10runtime")
+![](top10animationruntime.png "top10runtime")
 
 \*Focusing in on the top ten most profitable animation movies, we wanted to measure runtime (in minutes) as a goal to figure out what time length to pinpoint for the most optimal movie for our studio. We found a range of movies between 87 minutes and 101 minutes was the 25th and 75th percentile of the IQR Scale of our boxplot, as well as the average runtime for the top 10 most profitable movies was 91 minutes, a little over an hour and a half.
 
